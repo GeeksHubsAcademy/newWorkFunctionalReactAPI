@@ -1,0 +1,25 @@
+
+.characterDetailDesign {
+
+    height: 36em;
+    width: 30em;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: lightcyan;
+
+    border-radius: 1em;
+
+    color: black;
+    font-weight: bold;
+
+}
+
+.detailPic {
+
+    height: 28em;
+}
+
